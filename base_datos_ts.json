@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-11T20:47:25.494Z",
+  "updatedAt": "2026-10-11T20:57:41.561Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -12864,6 +12864,293 @@
           }
         ]
       }
+    },
+    {
+      "id": "2026-08_purerealm_mugentsukiyomi",
+      "guideId": "2026-08_purerealm_mugentsukiyomi",
+      "seasonId": "2026-08_purerealm",
+      "date": "2026-08-15",
+      "debuff": "Pure realm",
+      "debuffId": "purerealm",
+      "creator": "Mugen Tsukiyomi",
+      "variants": {
+        "7": [
+          {
+            "teamIndex": 1,
+            "pet": {
+              "idCdn": 6025,
+              "subs": [
+                6020
+              ]
+            },
+            "mains": [
+              214120,
+              219120,
+              202120,
+              208120,
+              177120
+            ],
+            "subsTop": [
+              181120,
+              229120,
+              216120,
+              253120
+            ],
+            "subsSec": [
+              236120,
+              102120,
+              253120,
+              251120,
+              185120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 214120,
+                "subs": [
+                  181120
+                ]
+              },
+              {
+                "slotIndex": 2,
+                "core": 219120,
+                "subs": [
+                  229120,
+                  236120,
+                  102120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 202120,
+                "subs": []
+              },
+              {
+                "slotIndex": 4,
+                "core": 208120,
+                "subs": [
+                  216120,
+                  253120,
+                  251120,
+                  185120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 177120,
+                "subs": [
+                  253120
+                ]
+              }
+            ]
+          },
+          {
+            "teamIndex": 2,
+            "pet": {
+              "idCdn": 6011,
+              "subs": [
+                6028
+              ]
+            },
+            "mains": [
+              173120,
+              251120,
+              224120,
+              248120,
+              221120
+            ],
+            "subsTop": [
+              219120,
+              241120,
+              194120
+            ],
+            "subsSec": [
+              229120,
+              97120,
+              203120,
+              246120,
+              160120,
+              253120,
+              247120,
+              163120,
+              249120,
+              230120,
+              185120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 173120,
+                "subs": []
+              },
+              {
+                "slotIndex": 2,
+                "core": 251120,
+                "subs": [
+                  219120,
+                  229120,
+                  97120,
+                  203120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 224120,
+                "subs": []
+              },
+              {
+                "slotIndex": 4,
+                "core": 248120,
+                "subs": [
+                  241120,
+                  246120,
+                  160120,
+                  253120,
+                  247120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 221120,
+                "subs": [
+                  194120,
+                  163120,
+                  249120,
+                  230120,
+                  185120
+                ]
+              }
+            ]
+          },
+          {
+            "teamIndex": 3,
+            "pet": {
+              "idCdn": 6019,
+              "subs": []
+            },
+            "mains": [
+              236120,
+              207120,
+              234120,
+              229120,
+              238120
+            ],
+            "subsTop": [
+              102120,
+              208120
+            ],
+            "subsSec": [
+              226120,
+              235120,
+              185120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 236120,
+                "subs": [
+                  102120
+                ]
+              },
+              {
+                "slotIndex": 2,
+                "core": 207120,
+                "subs": []
+              },
+              {
+                "slotIndex": 3,
+                "core": 234120,
+                "subs": []
+              },
+              {
+                "slotIndex": 4,
+                "core": 229120,
+                "subs": [
+                  208120,
+                  226120,
+                  235120,
+                  185120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 238120,
+                "subs": []
+              }
+            ]
+          },
+          {
+            "teamIndex": 4,
+            "pet": {
+              "idCdn": 6023,
+              "subs": []
+            },
+            "mains": [
+              64120,
+              245120,
+              242120,
+              244120,
+              194120
+            ],
+            "subsTop": [
+              236120,
+              247120,
+              253120
+            ],
+            "subsSec": [
+              229120,
+              102120,
+              97120,
+              251120,
+              210120,
+              185120,
+              230120,
+              52120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 64120,
+                "subs": [
+                  236120,
+                  229120,
+                  102120,
+                  97120
+                ]
+              },
+              {
+                "slotIndex": 2,
+                "core": 245120,
+                "subs": [
+                  247120,
+                  251120,
+                  210120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 242120,
+                "subs": []
+              },
+              {
+                "slotIndex": 4,
+                "core": 244120,
+                "subs": []
+              },
+              {
+                "slotIndex": 5,
+                "core": 194120,
+                "subs": [
+                  253120,
+                  185120,
+                  230120,
+                  52120
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ],
   "rankings": [
@@ -13626,6 +13913,39 @@
       }
     },
     {
+      "heroId": 173,
+      "heroName": "Shemira",
+      "finalScore": 96,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 90,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 90,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 238,
       "heroName": "Pippa",
       "finalScore": 95,
@@ -13653,39 +13973,6 @@
         },
         "ice": {
           "score": 85,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 173,
-      "heroName": "Shemira",
-      "finalScore": 95,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 90,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 93,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 90,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -13752,6 +14039,39 @@
         },
         "ice": {
           "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
+      "heroId": 224,
+      "heroName": "Sung Jinwoo",
+      "finalScore": 94,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 90,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -13950,39 +14270,6 @@
         },
         "ice": {
           "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 224,
-      "heroName": "Sung Jinwoo",
-      "finalScore": 90,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 90,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 83,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -14250,6 +14537,39 @@
       }
     },
     {
+      "heroId": 241,
+      "heroName": "Harvey",
+      "finalScore": 80,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 76,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 82,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 82,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 85,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 75,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 223,
       "heroName": "Serenmira",
       "finalScore": 80,
@@ -14316,6 +14636,39 @@
       }
     },
     {
+      "heroId": 230,
+      "heroName": "Selene",
+      "finalScore": 79,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 74,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 79,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 83,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 79,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 79,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 257,
       "heroName": "Kikoru Shinomiya",
       "finalScore": 78,
@@ -14340,72 +14693,6 @@
         },
         "ice": {
           "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 230,
-      "heroName": "Selene",
-      "finalScore": 78,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 74,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 79,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 83,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 75,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 79,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 241,
-      "heroName": "Harvey",
-      "finalScore": 77,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 76,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 82,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 82,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 72,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 75,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -14447,7 +14734,7 @@
     {
       "heroId": 247,
       "heroName": "Judy & Punch",
-      "finalScore": 73,
+      "finalScore": 74,
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
@@ -14466,7 +14753,7 @@
           "status": "ACTIVE"
         },
         "purerealm": {
-          "score": 72,
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -14678,7 +14965,7 @@
     {
       "heroId": 203,
       "heroName": "Kregor",
-      "finalScore": 59,
+      "finalScore": 60,
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
@@ -14697,7 +14984,7 @@
           "status": "ACTIVE"
         },
         "purerealm": {
-          "score": 70,
+          "score": 75,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -14942,7 +15229,7 @@
     {
       "heroId": 181,
       "heroName": "Lucius",
-      "finalScore": 30,
+      "finalScore": 31,
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
@@ -14961,7 +15248,7 @@
           "status": "ZERO"
         },
         "purerealm": {
-          "score": 82,
+          "score": 85,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -15037,6 +15324,39 @@
       }
     },
     {
+      "heroId": 249,
+      "heroName": "Trix",
+      "finalScore": 15,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "forest": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 75,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        }
+      }
+    },
+    {
       "heroId": 183,
       "heroName": "Bronn",
       "finalScore": 14,
@@ -15103,6 +15423,39 @@
       }
     },
     {
+      "heroId": 52,
+      "heroName": "Rowan",
+      "finalScore": 13,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "forest": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 65,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        }
+      }
+    },
+    {
       "heroId": 204,
       "heroName": "Randle",
       "finalScore": 12,
@@ -15132,39 +15485,6 @@
           "score": 60,
           "season": "T0",
           "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 249,
-      "heroName": "Trix",
-      "finalScore": 10,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "forest": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "swamp": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "purerealm": {
-          "score": 50,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
         }
       }
     },
