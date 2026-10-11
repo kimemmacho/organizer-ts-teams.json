@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-11T16:24:05.088Z",
+  "updatedAt": "2026-10-11T16:34:16.693Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -1715,7 +1715,8 @@
               252120,
               194120,
               194120,
-              229120
+              229120,
+              256120
             ],
             "slots": [
               {
@@ -1749,7 +1750,8 @@
                 "subs": [
                   221120,
                   194120,
-                  229120
+                  229120,
+                  256120
                 ]
               }
             ]
@@ -2297,6 +2299,7 @@
             "subsSec": [
               219120,
               97120,
+              256120,
               236120,
               221120,
               229120,
@@ -2306,11 +2309,13 @@
               247120,
               194120,
               160120,
+              256120,
               221120,
               160120,
               194120,
               247120,
-              229120
+              229120,
+              256120
             ],
             "slots": [
               {
@@ -2325,6 +2330,7 @@
                   251120,
                   219120,
                   97120,
+                  256120,
                   236120,
                   221120,
                   229120
@@ -2347,7 +2353,8 @@
                   252120,
                   247120,
                   194120,
-                  160120
+                  160120,
+                  256120
                 ]
               },
               {
@@ -2359,7 +2366,8 @@
                   160120,
                   194120,
                   247120,
-                  229120
+                  229120,
+                  256120
                 ]
               }
             ]
@@ -2446,18 +2454,21 @@
             },
             "mains": [
               232120,
-              220120,
+              256120,
               170120,
               215120,
               212120
             ],
             "subsTop": [
               239120,
+              220120,
               234120,
               254120,
               207120
             ],
             "subsSec": [
+              220120,
+              257120,
               161120,
               254120,
               226120,
@@ -2476,13 +2487,17 @@
                 "core": 232120,
                 "subs": [
                   239120,
+                  220120,
+                  257120,
                   161120
                 ]
               },
               {
                 "slotIndex": 2,
-                "core": 220120,
-                "subs": []
+                "core": 256120,
+                "subs": [
+                  220120
+                ]
               },
               {
                 "slotIndex": 3,
@@ -7643,9 +7658,39 @@
       }
     },
     {
+      "heroId": 256,
+      "heroName": "Kafka Hibino",
+      "finalScore": 86,
+      "validDebuffsCount": 2,
+      "breakdown": {
+        "volcano": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "forest": {
+          "score": 72,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "purerealm": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "ice": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 220,
       "heroName": "Alvida",
-      "finalScore": 87,
+      "finalScore": 86,
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
@@ -7654,7 +7699,7 @@
           "status": "ACTIVE"
         },
         "forest": {
-          "score": 94,
+          "score": 90,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -8000,6 +8045,36 @@
         },
         "ice": {
           "score": 83,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
+      "heroId": 257,
+      "heroName": "Kikoru Shinomiya",
+      "finalScore": 78,
+      "validDebuffsCount": 2,
+      "breakdown": {
+        "volcano": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "forest": {
+          "score": 55,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "purerealm": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "ice": {
+          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -8429,66 +8504,6 @@
         },
         "ice": {
           "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 257,
-      "heroName": "Kikoru Shinomiya",
-      "finalScore": 50,
-      "validDebuffsCount": 2,
-      "breakdown": {
-        "volcano": {
-          "score": null,
-          "status": "EXEMPT"
-        },
-        "forest": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "swamp": {
-          "score": null,
-          "status": "EXEMPT"
-        },
-        "purerealm": {
-          "score": null,
-          "status": "EXEMPT"
-        },
-        "ice": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 256,
-      "heroName": "Kafka Hibino",
-      "finalScore": 50,
-      "validDebuffsCount": 2,
-      "breakdown": {
-        "volcano": {
-          "score": null,
-          "status": "EXEMPT"
-        },
-        "forest": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "swamp": {
-          "score": null,
-          "status": "EXEMPT"
-        },
-        "purerealm": {
-          "score": null,
-          "status": "EXEMPT"
-        },
-        "ice": {
-          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         }
