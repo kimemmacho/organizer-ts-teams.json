@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-11T20:57:41.561Z",
+  "updatedAt": "2026-10-11T21:11:04.706Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -13148,6 +13148,191 @@
                 ]
               }
             ]
+          },
+          {
+            "teamIndex": 5,
+            "pet": {
+              "idCdn": 6029,
+              "subs": []
+            },
+            "mains": [
+              250120,
+              240120,
+              216120,
+              253120,
+              199120
+            ],
+            "subsTop": [
+              219120,
+              231120
+            ],
+            "subsSec": [
+              236120,
+              221120,
+              102120,
+              229120,
+              194120,
+              203120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 250120,
+                "subs": [
+                  219120,
+                  236120,
+                  221120,
+                  102120
+                ]
+              },
+              {
+                "slotIndex": 2,
+                "core": 240120,
+                "subs": []
+              },
+              {
+                "slotIndex": 3,
+                "core": 216120,
+                "subs": []
+              },
+              {
+                "slotIndex": 4,
+                "core": 253120,
+                "subs": [
+                  231120,
+                  229120,
+                  194120,
+                  203120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 199120,
+                "subs": []
+              }
+            ]
+          },
+          {
+            "teamIndex": 6,
+            "pet": {
+              "idCdn": 6027,
+              "subs": []
+            },
+            "mains": [
+              232120,
+              220120,
+              170120,
+              215120,
+              212120
+            ],
+            "subsTop": [
+              239120,
+              248120,
+              163120
+            ],
+            "subsSec": [
+              161120,
+              253120,
+              208120,
+              226120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 232120,
+                "subs": [
+                  239120,
+                  161120
+                ]
+              },
+              {
+                "slotIndex": 2,
+                "core": 220120,
+                "subs": []
+              },
+              {
+                "slotIndex": 3,
+                "core": 170120,
+                "subs": [
+                  248120,
+                  253120
+                ]
+              },
+              {
+                "slotIndex": 4,
+                "core": 215120,
+                "subs": []
+              },
+              {
+                "slotIndex": 5,
+                "core": 212120,
+                "subs": [
+                  163120,
+                  208120,
+                  226120
+                ]
+              }
+            ]
+          },
+          {
+            "teamIndex": 7,
+            "pet": {
+              "idCdn": 6015,
+              "subs": []
+            },
+            "mains": [
+              205120,
+              157120,
+              210120,
+              206120,
+              213120
+            ],
+            "subsTop": [
+              73120,
+              252120,
+              169120
+            ],
+            "subsSec": [
+              168120,
+              89120,
+              185120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 205120,
+                "subs": []
+              },
+              {
+                "slotIndex": 2,
+                "core": 157120,
+                "subs": [
+                  73120,
+                  168120,
+                  89120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 210120,
+                "subs": [
+                  252120
+                ]
+              },
+              {
+                "slotIndex": 4,
+                "core": 206120,
+                "subs": []
+              },
+              {
+                "slotIndex": 5,
+                "core": 213120,
+                "subs": [
+                  169120,
+                  185120
+                ]
+              }
+            ]
           }
         ]
       }
@@ -14965,7 +15150,7 @@
     {
       "heroId": 203,
       "heroName": "Kregor",
-      "finalScore": 60,
+      "finalScore": 61,
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
@@ -14984,7 +15169,7 @@
           "status": "ACTIVE"
         },
         "purerealm": {
-          "score": 75,
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -14992,6 +15177,39 @@
           "score": 0,
           "season": "N/A",
           "status": "ZERO"
+        }
+      }
+    },
+    {
+      "heroId": 231,
+      "heroName": "Begris",
+      "finalScore": 58,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 75,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "swamp": {
+          "score": 75,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 66,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 75,
+          "season": "T0",
+          "status": "ACTIVE"
         }
       }
     },
@@ -15124,39 +15342,6 @@
           "score": 0,
           "season": "N/A",
           "status": "ZERO"
-        }
-      }
-    },
-    {
-      "heroId": 231,
-      "heroName": "Begris",
-      "finalScore": 45,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 75,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "swamp": {
-          "score": 75,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "ice": {
-          "score": 75,
-          "season": "T0",
-          "status": "ACTIVE"
         }
       }
     },
@@ -15485,6 +15670,72 @@
           "score": 60,
           "season": "T0",
           "status": "ACTIVE"
+        }
+      }
+    },
+    {
+      "heroId": 169,
+      "heroName": "Liberta",
+      "finalScore": 11,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "forest": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 54,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        }
+      }
+    },
+    {
+      "heroId": 168,
+      "heroName": "Lucilla",
+      "finalScore": 10,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "forest": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 50,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
         }
       }
     },
