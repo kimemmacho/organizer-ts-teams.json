@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-11T16:34:16.693Z",
+  "updatedAt": "2026-10-11T16:43:33.724Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -1127,6 +1127,76 @@
                 "slotIndex": 5,
                 "core": 209120,
                 "subs": []
+              }
+            ],
+            "alts": [
+              {
+                "altIndex": 1,
+                "label": "Variante 1",
+                "isAlternative": true,
+                "altOfTeam": 5,
+                "scoringTeamIndex": 6,
+                "pet": {
+                  "idCdn": 6015,
+                  "subs": []
+                },
+                "mains": [
+                  205120,
+                  232120,
+                  234120,
+                  213120,
+                  208120
+                ],
+                "subsTop": [
+                  210120,
+                  206120,
+                  206120
+                ],
+                "subsSec": [
+                  157120,
+                  185120,
+                  252120,
+                  210120,
+                  252120
+                ],
+                "slots": [
+                  {
+                    "slotIndex": 1,
+                    "core": 205120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 2,
+                    "core": 232120,
+                    "subs": [
+                      210120,
+                      157120
+                    ]
+                  },
+                  {
+                    "slotIndex": 3,
+                    "core": 234120,
+                    "subs": [
+                      206120,
+                      185120,
+                      252120
+                    ]
+                  },
+                  {
+                    "slotIndex": 4,
+                    "core": 213120,
+                    "subs": [
+                      206120,
+                      210120,
+                      252120
+                    ]
+                  },
+                  {
+                    "slotIndex": 5,
+                    "core": 208120,
+                    "subs": []
+                  }
+                ]
               }
             ]
           },
@@ -7793,7 +7863,7 @@
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
-          "score": 82,
+          "score": 83,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -8120,7 +8190,7 @@
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
-          "score": 75,
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -8186,7 +8256,7 @@
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
-          "score": 66,
+          "score": 70,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -8248,11 +8318,11 @@
     {
       "heroId": 185,
       "heroName": "Hildwin",
-      "finalScore": 71,
+      "finalScore": 72,
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
-          "score": 75,
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -8444,6 +8514,39 @@
       }
     },
     {
+      "heroId": 205,
+      "heroName": "Thoran",
+      "finalScore": 58,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 68,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 60,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 60,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 235,
       "heroName": "Tavriel",
       "finalScore": 57,
@@ -8477,6 +8580,39 @@
       }
     },
     {
+      "heroId": 213,
+      "heroName": "Mira",
+      "finalScore": 56,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 68,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 60,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 60,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 94,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 209,
       "heroName": "Zohra",
       "finalScore": 54,
@@ -8504,6 +8640,39 @@
         },
         "ice": {
           "score": 60,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
+      "heroId": 206,
+      "heroName": "Knox",
+      "finalScore": 51,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 60,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 50,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 0,
+          "season": "N/A",
+          "status": "ZERO"
+        },
+        "purerealm": {
+          "score": 50,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 94,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -8642,72 +8811,6 @@
       }
     },
     {
-      "heroId": 205,
-      "heroName": "Thoran",
-      "finalScore": 44,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "forest": {
-          "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "purerealm": {
-          "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 213,
-      "heroName": "Mira",
-      "finalScore": 43,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "forest": {
-          "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "purerealm": {
-          "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 94,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
       "heroId": 230,
       "heroName": "Selene",
       "finalScore": 42,
@@ -8768,39 +8871,6 @@
         },
         "ice": {
           "score": 50,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 206,
-      "heroName": "Knox",
-      "finalScore": 39,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "forest": {
-          "score": 50,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "purerealm": {
-          "score": 50,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 94,
           "season": "T0",
           "status": "ACTIVE"
         }
