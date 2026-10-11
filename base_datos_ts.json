@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-11T20:03:20.408Z",
+  "updatedAt": "2026-10-11T20:06:53.456Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -9642,23 +9642,23 @@
                 },
                 "mains": [
                   173120,
-                  251120,
+                  97120,
                   224120,
                   163120,
-                  247120
+                  194120
                 ],
                 "subsTop": [
-                  229120,
-                  214120,
+                  241120,
+                  252120,
                   254120
                 ],
                 "subsSec": [
-                  97120,
-                  219120,
+                  229120,
+                  251120,
                   248120,
                   177120,
                   177120,
-                  194120
+                  247120
                 ],
                 "slots": [
                   {
@@ -9668,11 +9668,11 @@
                   },
                   {
                     "slotIndex": 2,
-                    "core": 251120,
+                    "core": 97120,
                     "subs": [
+                      241120,
                       229120,
-                      97120,
-                      219120
+                      251120
                     ]
                   },
                   {
@@ -9684,18 +9684,18 @@
                     "slotIndex": 4,
                     "core": 163120,
                     "subs": [
-                      214120,
+                      252120,
                       248120,
                       177120
                     ]
                   },
                   {
                     "slotIndex": 5,
-                    "core": 247120,
+                    "core": 194120,
                     "subs": [
                       254120,
                       177120,
-                      194120
+                      247120
                     ]
                   }
                 ]
@@ -9842,14 +9842,14 @@
                 "mains": [
                   102120,
                   214120,
-                  194120,
+                  199120,
                   248120,
                   254120
                 ],
                 "subsTop": [
                   236120,
                   211120,
-                  199120,
+                  194120,
                   208120
                 ],
                 "subsSec": [],
@@ -9870,9 +9870,9 @@
                   },
                   {
                     "slotIndex": 3,
-                    "core": 194120,
+                    "core": 199120,
                     "subs": [
-                      199120
+                      194120
                     ]
                   },
                   {
@@ -12481,7 +12481,7 @@
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
-          "score": 83,
+          "score": 84,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -12673,6 +12673,39 @@
       }
     },
     {
+      "heroId": 97,
+      "heroName": "Albedo",
+      "finalScore": 83,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 90,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 82,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 79,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 79,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 83,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 202,
       "heroName": "Aurelia",
       "finalScore": 82,
@@ -12700,39 +12733,6 @@
         },
         "ice": {
           "score": 78,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 97,
-      "heroName": "Albedo",
-      "finalScore": 82,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 86,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 82,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 79,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 79,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 83,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -12841,7 +12841,7 @@
       "validDebuffsCount": 5,
       "breakdown": {
         "volcano": {
-          "score": 72,
+          "score": 76,
           "season": "T0",
           "status": "ACTIVE"
         },
