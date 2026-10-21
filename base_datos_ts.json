@@ -1,10 +1,11 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-21T21:08:32.257Z",
+  "updatedAt": "2026-10-21T22:01:20.879Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
   },
+  "placeholders": [],
   "infographics": [
     {
       "id": "2026-09_volcano_theafkguys",
@@ -18780,6 +18781,35 @@
       }
     },
     {
+      "heroId": 258,
+      "heroName": "Theowyn",
+      "finalScore": 90,
+      "validDebuffsCount": 1,
+      "breakdown": {
+        "volcano": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "forest": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "swamp": {
+          "score": null,
+          "status": "EXEMPT"
+        },
+        "purerealm": {
+          "score": 90,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": null,
+          "status": "EXEMPT"
+        }
+      }
+    },
+    {
       "heroId": 215,
       "heroName": "Lysander",
       "finalScore": 89,
@@ -19855,39 +19885,6 @@
           "score": 0,
           "season": "N/A",
           "status": "ZERO"
-        },
-        "ice": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        }
-      }
-    },
-    {
-      "heroId": 258,
-      "heroName": "Theowyn",
-      "finalScore": 18,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "forest": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "swamp": {
-          "score": 0,
-          "season": "N/A",
-          "status": "ZERO"
-        },
-        "purerealm": {
-          "score": 90,
-          "season": "T0",
-          "status": "ACTIVE"
         },
         "ice": {
           "score": 0,
