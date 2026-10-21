@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-10-21T11:06:16.147Z",
+  "updatedAt": "2026-10-21T21:08:32.257Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -16086,7 +16086,7 @@
               157120,
               251120,
               256120,
-              91120,
+              258120,
               252120
             ],
             "subsTop": [
@@ -16113,7 +16113,7 @@
               },
               {
                 "slotIndex": 4,
-                "core": 91120,
+                "core": 258120,
                 "subs": [
                   248120,
                   239120
@@ -16224,6 +16224,53 @@
                 "isAlternative": true,
                 "altOfTeam": 1,
                 "scoringTeamIndex": 3,
+                "pet": {
+                  "idCdn": 6029,
+                  "subs": []
+                },
+                "mains": [
+                  250120,
+                  221120,
+                  248120,
+                  216120,
+                  199120
+                ],
+                "subsTop": [],
+                "subsSec": [],
+                "slots": [
+                  {
+                    "slotIndex": 1,
+                    "core": 250120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 2,
+                    "core": 221120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 3,
+                    "core": 248120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 4,
+                    "core": 216120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 5,
+                    "core": 199120,
+                    "subs": []
+                  }
+                ]
+              },
+              {
+                "altIndex": 3,
+                "label": "Variante 3",
+                "isAlternative": true,
+                "altOfTeam": 1,
+                "scoringTeamIndex": 4,
                 "pet": {
                   "idCdn": 6029,
                   "subs": []
@@ -16698,7 +16745,7 @@
               157120,
               251120,
               256120,
-              91120,
+              258120,
               252120
             ],
             "subsTop": [],
@@ -16721,7 +16768,7 @@
               },
               {
                 "slotIndex": 4,
-                "core": 91120,
+                "core": 258120,
                 "subs": []
               },
               {
@@ -16737,6 +16784,53 @@
                 "isAlternative": true,
                 "altOfTeam": 5,
                 "scoringTeamIndex": 6,
+                "pet": {
+                  "idCdn": 6023,
+                  "subs": []
+                },
+                "mains": [
+                  214120,
+                  219120,
+                  202120,
+                  208120,
+                  177120
+                ],
+                "subsTop": [],
+                "subsSec": [],
+                "slots": [
+                  {
+                    "slotIndex": 1,
+                    "core": 214120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 2,
+                    "core": 219120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 3,
+                    "core": 202120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 4,
+                    "core": 208120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 5,
+                    "core": 177120,
+                    "subs": []
+                  }
+                ]
+              },
+              {
+                "altIndex": 2,
+                "label": "Variante 2",
+                "isAlternative": true,
+                "altOfTeam": 5,
+                "scoringTeamIndex": 7,
                 "pet": {
                   "idCdn": 6023,
                   "subs": []
@@ -17170,7 +17264,7 @@
             "mains": [
               157120,
               205120,
-              91120,
+              258120,
               170120,
               256120
             ],
@@ -17224,7 +17318,7 @@
               },
               {
                 "slotIndex": 3,
-                "core": 91120,
+                "core": 258120,
                 "subs": [
                   252120,
                   185120,
@@ -17267,7 +17361,7 @@
                   205120,
                   185120,
                   210120,
-                  91120
+                  258120
                 ],
                 "subsTop": [
                   232120
@@ -17299,7 +17393,7 @@
                   },
                   {
                     "slotIndex": 5,
-                    "core": 91120,
+                    "core": 258120,
                     "subs": [
                       232120,
                       206120,
@@ -19770,7 +19864,7 @@
       }
     },
     {
-      "heroId": 91,
+      "heroId": 258,
       "heroName": "Theowyn",
       "finalScore": 18,
       "validDebuffsCount": 5,
