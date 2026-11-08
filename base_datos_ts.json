@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-11-06T09:51:30.085Z",
+  "updatedAt": "2026-11-08T08:45:29.581Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
@@ -23408,6 +23408,519 @@
           }
         ]
       }
+    },
+    {
+      "id": "2026-11_swamp_fararanonameedit",
+      "guideId": "2026-11_swamp_fararanonameedit",
+      "seasonId": "2026-11_swamp",
+      "date": "2026-11-08",
+      "debuff": "Swamp",
+      "debuffId": "swamp",
+      "creator": "Farara - No_Name_Edit",
+      "variants": {
+        "4": [
+          {
+            "teamIndex": 1,
+            "pet": {
+              "idCdn": 6030,
+              "subs": [
+                6019
+              ]
+            },
+            "mains": [
+              236120,
+              207120,
+              234120,
+              229120,
+              232120
+            ],
+            "subsTop": [
+              102120,
+              194120,
+              208120,
+              238120
+            ],
+            "subsSec": [
+              258120,
+              226120,
+              254120,
+              194120,
+              258120,
+              209120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 236120,
+                "subs": [
+                  102120
+                ]
+              },
+              {
+                "slotIndex": 2,
+                "core": 207120,
+                "subs": []
+              },
+              {
+                "slotIndex": 3,
+                "core": 234120,
+                "subs": [
+                  194120,
+                  258120,
+                  226120
+                ]
+              },
+              {
+                "slotIndex": 4,
+                "core": 229120,
+                "subs": [
+                  208120,
+                  254120,
+                  194120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 232120,
+                "subs": [
+                  238120,
+                  258120,
+                  209120
+                ]
+              }
+            ],
+            "alts": [
+              {
+                "altIndex": 1,
+                "label": "Variante 1",
+                "isAlternative": true,
+                "altOfTeam": 1,
+                "scoringTeamIndex": 2,
+                "pet": {
+                  "idCdn": 6030,
+                  "subs": [
+                    6019
+                  ]
+                },
+                "mains": [
+                  236120,
+                  207120,
+                  258120,
+                  229120,
+                  232120
+                ],
+                "subsTop": [
+                  102120,
+                  194120,
+                  208120,
+                  238120
+                ],
+                "subsSec": [
+                  234120,
+                  185120,
+                  254120,
+                  194120,
+                  258120,
+                  209120
+                ],
+                "slots": [
+                  {
+                    "slotIndex": 1,
+                    "core": 236120,
+                    "subs": [
+                      102120
+                    ]
+                  },
+                  {
+                    "slotIndex": 2,
+                    "core": 207120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 3,
+                    "core": 258120,
+                    "subs": [
+                      194120,
+                      234120,
+                      185120
+                    ]
+                  },
+                  {
+                    "slotIndex": 4,
+                    "core": 229120,
+                    "subs": [
+                      208120,
+                      254120,
+                      194120
+                    ]
+                  },
+                  {
+                    "slotIndex": 5,
+                    "core": 232120,
+                    "subs": [
+                      238120,
+                      258120,
+                      209120
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teamIndex": 2,
+            "pet": {
+              "idCdn": 6027,
+              "subs": [
+                6011
+              ]
+            },
+            "mains": [
+              173120,
+              221120,
+              248120,
+              224120,
+              194120
+            ],
+            "subsTop": [
+              252120,
+              252120,
+              252120
+            ],
+            "subsSec": [
+              251120,
+              254120,
+              251120,
+              254120,
+              251120,
+              254120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 173120,
+                "subs": []
+              },
+              {
+                "slotIndex": 2,
+                "core": 221120,
+                "subs": [
+                  252120,
+                  251120,
+                  254120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 248120,
+                "subs": [
+                  252120,
+                  251120,
+                  254120
+                ]
+              },
+              {
+                "slotIndex": 4,
+                "core": 224120,
+                "subs": []
+              },
+              {
+                "slotIndex": 5,
+                "core": 194120,
+                "subs": [
+                  252120,
+                  251120,
+                  254120
+                ]
+              }
+            ],
+            "alts": [
+              {
+                "altIndex": 1,
+                "label": "Variante 1",
+                "isAlternative": true,
+                "altOfTeam": 2,
+                "scoringTeamIndex": 3,
+                "pet": {
+                  "idCdn": 6023,
+                  "subs": []
+                },
+                "mains": [
+                  250120,
+                  221120,
+                  234120,
+                  253120,
+                  199120
+                ],
+                "subsTop": [
+                  214120,
+                  214120,
+                  214120,
+                  194120,
+                  216120
+                ],
+                "subsSec": [
+                  248120,
+                  219120,
+                  248120,
+                  219120,
+                  248120,
+                  219120,
+                  229120,
+                  216120
+                ],
+                "slots": [
+                  {
+                    "slotIndex": 1,
+                    "core": 250120,
+                    "subs": [
+                      214120,
+                      248120,
+                      219120
+                    ]
+                  },
+                  {
+                    "slotIndex": 2,
+                    "core": 221120,
+                    "subs": [
+                      214120,
+                      248120,
+                      219120
+                    ]
+                  },
+                  {
+                    "slotIndex": 3,
+                    "core": 234120,
+                    "subs": [
+                      214120,
+                      248120,
+                      219120
+                    ]
+                  },
+                  {
+                    "slotIndex": 4,
+                    "core": 253120,
+                    "subs": [
+                      194120,
+                      229120,
+                      216120
+                    ]
+                  },
+                  {
+                    "slotIndex": 5,
+                    "core": 199120,
+                    "subs": [
+                      216120
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teamIndex": 3,
+            "pet": {
+              "idCdn": 6029,
+              "subs": [
+                6025
+              ]
+            },
+            "mains": [
+              245120,
+              219120,
+              242120,
+              244120,
+              216120
+            ],
+            "subsTop": [
+              236120,
+              248120,
+              194120
+            ],
+            "subsSec": [
+              64120,
+              254120,
+              248120,
+              177120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 245120,
+                "subs": []
+              },
+              {
+                "slotIndex": 2,
+                "core": 219120,
+                "subs": [
+                  236120,
+                  64120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 242120,
+                "subs": []
+              },
+              {
+                "slotIndex": 4,
+                "core": 244120,
+                "subs": [
+                  248120,
+                  254120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 216120,
+                "subs": [
+                  194120,
+                  248120,
+                  177120
+                ]
+              }
+            ]
+          },
+          {
+            "teamIndex": 4,
+            "pet": {
+              "idCdn": 6015,
+              "subs": []
+            },
+            "mains": [
+              157120,
+              251120,
+              258120,
+              252120,
+              256120
+            ],
+            "subsTop": [
+              206120,
+              232120,
+              206120
+            ],
+            "subsSec": [
+              254120,
+              210120,
+              205120,
+              254120,
+              210120
+            ],
+            "slots": [
+              {
+                "slotIndex": 1,
+                "core": 157120,
+                "subs": []
+              },
+              {
+                "slotIndex": 2,
+                "core": 251120,
+                "subs": [
+                  206120,
+                  254120,
+                  210120
+                ]
+              },
+              {
+                "slotIndex": 3,
+                "core": 258120,
+                "subs": [
+                  232120,
+                  205120
+                ]
+              },
+              {
+                "slotIndex": 4,
+                "core": 252120,
+                "subs": [
+                  206120,
+                  254120,
+                  210120
+                ]
+              },
+              {
+                "slotIndex": 5,
+                "core": 256120,
+                "subs": []
+              }
+            ],
+            "alts": [
+              {
+                "altIndex": 1,
+                "label": "Variante 1",
+                "isAlternative": true,
+                "altOfTeam": 4,
+                "scoringTeamIndex": 5,
+                "pet": {
+                  "idCdn": 6027,
+                  "subs": [
+                    6011
+                  ]
+                },
+                "mains": [
+                  173120,
+                  252120,
+                  248120,
+                  224120,
+                  251120
+                ],
+                "subsTop": [
+                  194120,
+                  194120,
+                  194120
+                ],
+                "subsSec": [
+                  254120,
+                  221120,
+                  254120,
+                  221120,
+                  254120,
+                  221120
+                ],
+                "slots": [
+                  {
+                    "slotIndex": 1,
+                    "core": 173120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 2,
+                    "core": 252120,
+                    "subs": [
+                      194120,
+                      254120,
+                      221120
+                    ]
+                  },
+                  {
+                    "slotIndex": 3,
+                    "core": 248120,
+                    "subs": [
+                      194120,
+                      254120,
+                      221120
+                    ]
+                  },
+                  {
+                    "slotIndex": 4,
+                    "core": 224120,
+                    "subs": []
+                  },
+                  {
+                    "slotIndex": 5,
+                    "core": 251120,
+                    "subs": [
+                      194120,
+                      254120,
+                      221120
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ],
   "rankings": [
@@ -23610,6 +24123,72 @@
       }
     },
     {
+      "heroId": 234,
+      "heroName": "Elthara",
+      "finalScore": 100,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
+      "heroId": 232,
+      "heroName": "Fawkes",
+      "finalScore": 100,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 98,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 221,
       "heroName": "Estrilda",
       "finalScore": 100,
@@ -23742,6 +24321,39 @@
       }
     },
     {
+      "heroId": 207,
+      "heroName": "Skylan",
+      "finalScore": 100,
+      "validDebuffsCount": 5,
+      "breakdown": {
+        "volcano": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "forest": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "swamp": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "purerealm": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        },
+        "ice": {
+          "score": 100,
+          "season": "T0",
+          "status": "ACTIVE"
+        }
+      }
+    },
+    {
       "heroId": 199,
       "heroName": "Lan",
       "finalScore": 100,
@@ -23791,7 +24403,7 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 98,
+          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -23904,8 +24516,8 @@
       }
     },
     {
-      "heroId": 234,
-      "heroName": "Elthara",
+      "heroId": 229,
+      "heroName": "Gorok",
       "finalScore": 99,
       "validDebuffsCount": 5,
       "breakdown": {
@@ -23920,7 +24532,7 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 93,
+          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -23930,40 +24542,7 @@
           "status": "ACTIVE"
         },
         "ice": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 232,
-      "heroName": "Fawkes",
-      "finalScore": 99,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 98,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
           "score": 97,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -24019,7 +24598,7 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 90,
+          "score": 91,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -24151,7 +24730,7 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 98,
+          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -24201,8 +24780,8 @@
       }
     },
     {
-      "heroId": 207,
-      "heroName": "Skylan",
+      "heroId": 208,
+      "heroName": "Gorren",
       "finalScore": 98,
       "validDebuffsCount": 5,
       "breakdown": {
@@ -24217,7 +24796,7 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 90,
+          "score": 89,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -24250,7 +24829,7 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 98,
+          "score": 100,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -24261,39 +24840,6 @@
         },
         "ice": {
           "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 229,
-      "heroName": "Gorok",
-      "finalScore": 97,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 90,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 97,
           "season": "T0",
           "status": "ACTIVE"
         }
@@ -24366,8 +24912,8 @@
       }
     },
     {
-      "heroId": 208,
-      "heroName": "Gorren",
+      "heroId": 209,
+      "heroName": "Zohra",
       "finalScore": 94,
       "validDebuffsCount": 5,
       "breakdown": {
@@ -24382,12 +24928,12 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 69,
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
         "purerealm": {
-          "score": 100,
+          "score": 93,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -24498,8 +25044,8 @@
       }
     },
     {
-      "heroId": 209,
-      "heroName": "Zohra",
+      "heroId": 185,
+      "heroName": "Hildwin",
       "finalScore": 91,
       "validDebuffsCount": 5,
       "breakdown": {
@@ -24514,12 +25060,12 @@
           "status": "ACTIVE"
         },
         "swamp": {
-          "score": 60,
+          "score": 75,
           "season": "T0",
           "status": "ACTIVE"
         },
         "purerealm": {
-          "score": 93,
+          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
@@ -24618,39 +25164,6 @@
         },
         "purerealm": {
           "score": 82,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "ice": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        }
-      }
-    },
-    {
-      "heroId": 185,
-      "heroName": "Hildwin",
-      "finalScore": 88,
-      "validDebuffsCount": 5,
-      "breakdown": {
-        "volcano": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "forest": {
-          "score": 100,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "swamp": {
-          "score": 60,
-          "season": "T0",
-          "status": "ACTIVE"
-        },
-        "purerealm": {
-          "score": 79,
           "season": "T0",
           "status": "ACTIVE"
         },
