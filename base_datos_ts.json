@@ -1,17 +1,11 @@
 {
   "version": "3.0",
-  "updatedAt": "2026-11-18T19:41:38.206Z",
+  "updatedAt": "2026-11-19T14:57:34.372Z",
   "meta": {
     "retentionYears": 2,
     "rankingsOmitZeroScore": true
   },
-  "placeholders": [
-    {
-      "id": 260,
-      "name": "Brenna",
-      "releaseDate": "2026-11-18"
-    }
-  ],
+  "placeholders": [],
   "infographics": [
     {
       "id": "2026-09_volcano_theafkguys",
